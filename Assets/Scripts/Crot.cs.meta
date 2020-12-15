@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abf6a5a5879720348892c04032ebf29a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cm: {instanceID: 0}
+  - crot: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - Ouch: {fileID: 8300000, guid: 5dd87bf1e9d697c43b65502f84c2c240, type: 3}
+  - Source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
